@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between the bishop of El---y and his conscience.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35892</idno>
+            <idno type="STC">Wing D1326B</idno>
+            <idno type="STC">ESTC R214470</idno>
+            <idno type="EEBO-CITATION">99826637</idno>
+            <idno type="PROQUEST">99826637</idno>
+            <idno type="VID">31042</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31042)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1775:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between the bishop of El---y and his conscience.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>A satire on Francis Turner, "Bishop of El---y".</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turner, Francis, 1638?-1700 --  Early works to 1800.</term>
+               <term>Church of England --  History --  17th century --  Early works to 1800.</term>
+               <term>Church of England. --  Diocese of Ely. --  Bishop (1684-1690 : Turner)</term>
+               <term>Nonjurors --  Early works to 1800.</term>
+               <term>Satire, English --  17th Century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poetic_dialogue">
+            <pb facs="tcp:31042:1"/>
+            <!-- PDF PAGE 43 -->
+            <pb n="1" facs="tcp:31042:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <head>A DIALOGUE BETWEEN The Biſhop of <hi>El—y</hi> and his <hi>Conſcience.</hi>
+            </head>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <l>'TIS time to ſpeak, I can no longer hold,</l>
+               <l>Tho' brib'd by largeſt Sums of foreign Gold;</l>
+               <l>Truth is my Office, and how e're oppreſt,</l>
+               <l>I'm Heavens Vicegerent in a Mortals Breaſt,</l>
+               <l>Obſerve each Action, and remark each Thought,</l>
+               <l>Know all deſigns e're to perfection brought,</l>
+               <l>Long tho' I've ſtifled been—But now 'tis time,</l>
+               <l>Aloud to mind a Prelate of his Crime.</l>
+               <l>Tell me then, Reverend Sir, O tell me why,</l>
+               <l>Did you by force thus make me to comply,</l>
+               <l>Againſt the Dignity of Holy Lawn,</l>
+               <l>On a <hi>French</hi> Power ſo doatingly to fawn?</l>
+            </sp>
+            <sp>
+               <speaker>Bp. <hi>E.</hi>
+               </speaker>
+               <l>What croaking Thing art thou? What canting Cheat,</l>
+               <l>That ſtops me in the Road of being great?</l>
+               <l>I on Ambition's Wings ſo long have flown,</l>
+               <l>Muſt I by thy dull Lure be whiſtled down,</l>
+               <l>What art thou Slave—who makeſt ſo vile a ſtir?</l>
+            </sp>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <p>Too well you know me, I'm your Conſcience Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Bp. <hi>E.</hi>
+               </speaker>
+               <l>Conſcience—Alaſs! I've heard of ſuch a Wight,</l>
+               <l>Fit only Fools and School-Boys to affright;</l>
+               <l>
+                  <pb n="2" facs="tcp:31042:2"/>
+                  <!-- PDF PAGE 44 -->
+I've long ſince loſt it, if I e're had one;</l>
+               <l>Intereſt is all the Conſcience I will own.</l>
+            </sp>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <l>Think not, vain Prelate, by that feign'd diſguiſe</l>
+               <l>To hide thy doings from my prying Eyes;</l>
+               <l>Not only I obſerve what ere you do,</l>
+               <l>But I have regiſtred thy Actions too;</l>
+               <l>Yet my Severity I'll once forbear,</l>
+               <l>If you and I may like two Friends confer.</l>
+            </sp>
+            <sp>
+               <speaker>Bp. <hi>E.</hi>
+               </speaker>
+               <l>I find, 'tis but in vain, to make pretence</l>
+               <l>To rid my ſelf of this Impertinence;</l>
+               <l>I'le humour it for once—for to the Devil</l>
+               <l>A well bred Man ought ſometimes to be civil.</l>
+               <l>Well—now Sir Gravity, I'll be at leaſure</l>
+               <l>To hear your prating, therefore ſpeak your pleaſure.</l>
+            </sp>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <p>Are you a Biſhop?</p>
+            </sp>
+            <sp>
+               <speaker>Bp. <hi>E.</hi>
+               </speaker>
+               <p>I have long been ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <p>But to what Church do you Allegiance owe?</p>
+            </sp>
+            <sp>
+               <speaker>Bp. <hi>E.</hi>
+               </speaker>
+               <l>The Church of <hi>England</hi> I eſteem my Mother,</l>
+               <l>And no reſpect I pay to any other;</l>
+               <l>Her Liturgies, as beſt of Prayers allow,</l>
+               <l>Live by her Rules, and at her Altars bow,</l>
+               <l>Chief Paſtor once of <hi>E—y</hi>'s holy See,</l>
+               <l>Until depriv'd—</l>
+            </sp>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <p>How hapned that to be?</p>
+            </sp>
+            <sp>
+               <speaker>Bp. <hi>E.</hi>
+               </speaker>
+               <l>Tho' former Oaths I took, I could not thoſe,</l>
+               <l>Which on us now the Government impoſe;</l>
+               <l>They are ſo harſh, ſo crabbed, and ſevere,</l>
+               <l>An Hedg-Hog I could ſwallow ſooner far.</l>
+            </sp>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <l>Hold not thoſe Monarchs which now fill the Throne,</l>
+               <l>The Church of <hi>Englands</hi> Faith?</l>
+            </sp>
+            <sp>
+               <speaker>Bp. <hi>E.</hi>
+               </speaker>
+               <l>I think theyve' none,</l>
+               <l>They elſe their baniſht Father would recall.</l>
+            </sp>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <l>Stop there, e're you too loud your Treaſon bawl:</l>
+               <l>Are you the Rudder that muſt guide the State?</l>
+               <l>Were they all Fools, who in Convention ſate?</l>
+               <l>When to its <hi>Criſis</hi> was the Kingdom come,</l>
+               <l>When Ruin ſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m'd to threaten Chriſtendon,</l>
+               <l>Their wiſer Methods ſtopt the raging Flood,</l>
+               <l>Which beat down all in oppoſition ſtood.</l>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:31042:2"/>
+               <!-- PDF PAGE 44 -->
+               <speaker>Bp. <hi>E.</hi>
+               </speaker>
+               <l>Who were the wiſer, either Fools or Knaves,</l>
+               <l>In this they all agreed to make us Slaves.</l>
+            </sp>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <l>What ſtrange Chymera's fill thy pious Brain?</l>
+               <l>What Whimſies does thy fancy entertain?</l>
+               <l>Hagg-rid thy Thoughts, and take ſuch mighty pains,</l>
+               <l>To form thy ſelf imaginary Chains?</l>
+            </sp>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <p>Know you theſe Letters?</p>
+            </sp>
+            <sp>
+               <speaker>Bp. <hi>E.</hi>
+               </speaker>
+               <p>I have ſeen the Hand,</p>
+            </sp>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <p>Come, come, too well the Plot you underſtand;</p>
+            </sp>
+            <sp>
+               <speaker>Bp. <hi>E.</hi>
+               </speaker>
+               <l>I in a Plot? Think you I'd ſo diſgrace,</l>
+               <l>The Function in my Apoſtolick place,</l>
+               <l>To plot or countenace a foul Deſign,</l>
+               <l>Which ſhould my Countries Quiet undermine?</l>
+               <l>Fanaticks only plot, our Church diſowns,</l>
+               <l>And excommunicates her plotting Sons.</l>
+               <l>A civil Letter may, I hope, be wrote</l>
+               <l>To Friends abroad, and yet no harm in that.</l>
+            </sp>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <l>Altho' to Mr. <hi>Redding</hi>'s the pretence,</l>
+               <l>King <hi>J—s</hi> is ſtill the Mythologick Senſe.</l>
+            </sp>
+            <sp>
+               <speaker>Bp. <hi>E.</hi>
+               </speaker>
+               <l>Bleſs me! He does my Boſom Secrets know,</l>
+               <l>And yet to ſhun him ſtill I know not how.</l>
+            </sp>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <l>In open Field, at Noon as ſoon you may</l>
+               <l>Your Shaddow from your own dear ſelf convey,</l>
+               <l>As think by Riddles to ſecure your ſenſe,</l>
+               <l>From my all ſeeing true Intelligence</l>
+               <l>Unhappy Man, and more unhappy I,</l>
+               <l>Who thus am doom'd to keep thee <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ompany;</l>
+               <l>Think—had thy Plot ſucceeded, what a Scene</l>
+               <l>Of Miſery had thy poor Country been?</l>
+               <l>When a <hi>French</hi> power, aſſiſted by the rage,</l>
+               <l>Which does all Bigot Catholicks ingage,</l>
+               <l>Had ravag'd Towns, and laid whole Counties waſte,</l>
+               <l>And ruine like the Plague through <hi>Albion</hi> paſt:</l>
+               <l>Strange Riddle of a curſed Plot tis ſure,</l>
+               <l>The Proteſtant Religion to ſecure;</l>
+               <l>'To crave Aſſiſtance from the <hi>Gallick</hi> Shore,</l>
+               <l>What Lunatick in <hi>Bedlam</hi> could do more?</l>
+               <l>
+                  <pb n="4" facs="tcp:31042:3"/>
+                  <!-- PDF PAGE 45 -->
+Reflect once more thou moſt unthinking Man,</l>
+               <l>What Miſchief to thy Mother Church is done?</l>
+               <l>When Hereticks and Atheiſts for thy ſake,</l>
+               <l>Shall of Religion a meer Foppery make,</l>
+               <l>Thy Holy Function be expos'd to ſcorn,</l>
+               <l>And in ſad Tear the poor<note n="*" place="margin">C. of <hi>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi>
+                  </note> 
+                  <hi>Euſebia</hi> mourn,</l>
+               <l>Conſider how—</l>
+            </sp>
+            <sp>
+               <speaker>Bp. <hi>E.</hi>
+               </speaker>
+               <l>Dull prating thing no more,</l>
+               <l>How dareſt thou thus my Frailties to explore,</l>
+               <l>If within bounds thy ſelf thou doſt not keep,</l>
+               <l>I'll with Church <hi>Opium</hi> quickly make thee ſleep;</l>
+               <l>But hah! What noiſe is that?</l>
+            </sp>
+            <sp>
+               <speaker>Conſ.</speaker>
+               <l>Your guilty Fear,</l>
+               <l>Still ſounding Trumpets in your Lordſhips Ear,</l>
+            </sp>
+            <sp>
+               <speaker>Bp. <hi>E.</hi>
+               </speaker>
+               <l>A Proclamation out, and out for me;</l>
+               <l>Then, then by all my hopes 'tis time to flee,</l>
+               <l>Could I this peeviſh Conſcience leave behind,</l>
+               <l>Or with ſtrong Cords his noiſie Non-ſenſe bind;</l>
+               <l>How ſafe were I—But hark more noiſes run,</l>
+               <l>Come Brother <hi>Pen</hi>—'Tis time we both were gone.</l>
+            </sp>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:31042:3"/>
+            <!-- PDF PAGE 45 -->
+         </div>
+      </body>
+   </text>
+</TEI>
